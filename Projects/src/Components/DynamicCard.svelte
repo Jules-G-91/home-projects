@@ -42,7 +42,7 @@
 	{/if}
 
 	<div class="flex flex-grow flex-col p-6">
-		<h2 class="font-serif text-lg font-bold">{title}</h2>
+		<h2 class="font-sans text-lg font-bold">{title}</h2>
 		<p class="mt-2 flex-grow text-sm text-gray-600">{description}</p>
 		<button
 			class={`${colors[baseColour]} mt-4 w-full cursor-pointer rounded-md px-4 py-2 text-sm text-white transition`}
