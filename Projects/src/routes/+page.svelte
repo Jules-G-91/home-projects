@@ -58,6 +58,5 @@
 		showImage={false}
 		showIcon={true}
 	/>
+	<Card></Card>
 </div>
-
-<Card></Card>
